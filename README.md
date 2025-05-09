@@ -1,4 +1,4 @@
-# Netflix-Movies-And-TV-Shows-Analysis-EDA-
+# Netflix-Movies-And-TV-Shows-Analysis-EDA
 
 This project performs Exploratory Data Analysis (EDA) on Netflix content to understand trends in genres, release years, content types, durations, and global reach. The goal is to extract key insights to help improve recommendations and understand content diversity.
 
